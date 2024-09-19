@@ -1,3 +1,5 @@
+package br.com.alura.aula1;
+
 public class Musica {
     String titulo;
     String artista;
