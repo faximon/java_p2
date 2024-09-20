@@ -50,8 +50,18 @@ public class Main {
         Aluno aluno1 = new Aluno("Martchelo", 7,4,8,6);
         Aluno aluno2 = new Aluno("Castelo", 10, 7, 6, 6);
 
-        System.out.println("O aluno " + aluno1.getNome() + " com as notas: \n" +aluno1.getNota1() + ",\n" + aluno1.getNota2() + ",\n" + aluno1.getNota3() + ",\n" + aluno1.getNota4() + ",\n" + "Alcancou a média de: " +aluno1.calcularMedia() + ".");
-        System.out.println("O aluno " + aluno2.getNome() + " com as notas: \n" +aluno2.getNota1() + ",\n" + aluno2.getNota2() + ",\n" + aluno2.getNota3() + ",\n" + aluno2.getNota4() + ",\n" + "Alcancou a média de: " +aluno2.calcularMedia() + ".");
+        System.out.println("O aluno " + aluno1.getNome() + " com as notas: \n"
+                + aluno1.getNota1() + ",\n"
+                + aluno1.getNota2() + ",\n"
+                + aluno1.getNota3() + ",\n"
+                + aluno1.getNota4() + ",\n"
+                + "Alcancou a média de: " +aluno1.calcularMedia() + ".");
+        System.out.println("O aluno " + aluno2.getNome() + " com as notas: \n"
+                + aluno2.getNota1() + ",\n"
+                + aluno2.getNota2() + ",\n"
+                + aluno2.getNota3() + ",\n"
+                + aluno2.getNota4() + ",\n"
+                + "Alcancou a média de: " +aluno2.calcularMedia() + ".");
 
 
         System.out.println("=====================================================");
