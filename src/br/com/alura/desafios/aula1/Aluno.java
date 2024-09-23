@@ -1,4 +1,4 @@
-package br.com.alura.aula1;
+package br.com.alura.desafios.aula1;
 
 public class Aluno {
     String nome;

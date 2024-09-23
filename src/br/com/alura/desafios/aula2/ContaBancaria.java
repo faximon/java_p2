@@ -1,4 +1,4 @@
-package br.com.alura.aula2;
+package br.com.alura.desafios.aula2;
 
 public class ContaBancaria {
     private int numeroConta;
